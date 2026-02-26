@@ -55,6 +55,25 @@
 
 ---
 
+## 📊 GitHub Activity & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sathyarajasekaran&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sathyarajasekaran&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+## 📈 Contribution Activity (Recent)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathyarajasekaran&theme=tokyonight" />
+</p>
+
+## 🔥 Daily GitHub Activity
+
+- 📌 Actively maintaining **daily GitHub commit streaks**
+- 🧩 Regularly practicing **automation scripts, backend validation, and test frameworks**
+- 🚀 Consistent hands-on learning through **daily commits and small improvements**
+
 ## 🏆 Highlights
 - 🚀 Reduced regression effort through automation
 - 🧪 Automated critical UI test cases for telecom platforms
@@ -77,7 +96,7 @@ University College of Engineering, Villupuram
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://sathyarajasekaran.netlify.app/">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=netlify&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/sathya-rajasekaran2107">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
