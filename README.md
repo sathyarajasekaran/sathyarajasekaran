@@ -4,7 +4,7 @@
 <p align="center">
 📍 Tirupattur, Tamil Nadu, India &nbsp;•&nbsp;
 📧 <a href="mailto:sathya2172003@gmail.com">Email</a> &nbsp;•&nbsp;
-💻 <a href="https://github.com/sathyarajasekaran">GitHub</a> &nbsp;•&nbsp;
+💻 <a href="https://sathyarajasekaran.netlify.app/">Portfolio</a> &nbsp;•&nbsp;
 🔗 <a href="https://linkedin.com/in/sathya-rajasekaran2107">LinkedIn</a>
 </p>
 
