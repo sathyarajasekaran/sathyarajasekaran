@@ -77,8 +77,7 @@
 ## 🏆 Highlights
 - 🚀 Reduced regression effort through automation
 - 🧪 Automated critical UI test cases for telecom platforms
-- 📡 Hands-on experience in **Airtel SA, B2C & B2B systems**
-- 🔔 Netcool mediation → UI alarm validation & automation
+- 📡 Hands-on experience in **Writing testcases**
 
 ---
 
